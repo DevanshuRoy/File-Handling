@@ -40,4 +40,4 @@ elif choice==2:
     print("Number of words starting with 't':", wordcount)
 
 else:
-    print("Invalid choice. Please enter 0 or 1.")
+    print("Invalid choice. Please enter 1 or 2.")
